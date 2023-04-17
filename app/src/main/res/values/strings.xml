@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GatePass System</string>
+    <string name="splash_text">Gate Pass Management System</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="phone_no">Phone No</string>
+    <string name="phone_number">Click Me</string>
+    <string name="email_address">Email Address</string>
+    <string name="emailaddress">majorprojectfinalyearce@gmail.com</string>
+    <string name="ask_your_query">Ask Your Query</string>
+    <string name="send_your_message">Send Your Message</string>
+    <string name="select">Select Department</string>
+    <string name="year">Select Year</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588380633811",
+    "project_id": "gatepass-system-bd566",
+    "storage_bucket": "gatepass-system-bd566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588380633811:android:d6e6b0a09a1fca1cfe7226",
+        "android_client_info": {
+          "package_name": "com.example.gatepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588380633811-n4rb4bgpfqrbk0cqgt1deqvnacqbv57k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwIcliLtc3Dnmr7yA9siVdgJp2L-QUJyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588380633811-n4rb4bgpfqrbk0cqgt1deqvnacqbv57k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
